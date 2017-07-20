@@ -90,6 +90,7 @@ const counter = (state = 0, action) => {  // 5.初期設定のテストをクリ
  }) => (
      <div>
          <h1>{value}</h1>
+         <h2>ああああああああああああ</h2>
          <button
               onClick={onIncrement}>+
          </button>
